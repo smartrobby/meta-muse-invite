@@ -24,7 +24,7 @@ python3 -m http.server 8000
 
 방문자는 이 페이지에서 초대 코드 `L2FZL2`를 복사한 뒤, 미국 VPN 연결 상태의 스마트폰 Chrome 또는 Edge에서 [Meta Muse 소개 페이지](https://ai.meta.com/muse/)를 엽니다. 브라우저 메뉴에서 **데스크톱 사이트**를 선택하고, **CREATOR STORIES · Get inspired** 아래의 **MUSE FOR SMALL BUSINESS** 구역까지 내려가 그 구역의 **Try Muse**를 눌러 [소상공인용 가입 웹페이지](https://muse.ai/business)로 이동합니다. 상단이나 Get inspired 구역의 일반 Try Muse가 앱스토어로 연결되더라도 이 가이드에서는 앱을 설치하지 않고 웹사이트에서 가입을 진행합니다. 계정 등록과 코드 입력은 Muse 공식 화면에서 진행하며, 이 웹페이지가 계정 정보나 결제 정보를 받지는 않습니다.
 
-STEP 02에 들어간 두 장의 공식 화면 사진은 2026년 10월 3일 [Meta Muse 소개 페이지](https://ai.meta.com/muse/)를 캡처한 것으로, 이후 화면이 달라질 수 있습니다. Muse for Small Business의 [공식 안내](https://muse.ai/business)는 현재 미국·캐나다의 만 18세 이상 대상이라고 표시합니다.
+STEP 02에 들어간 소상공인 구역의 공식 화면 사진은 2026년 10월 3일 [Meta Muse 소개 페이지](https://ai.meta.com/muse/)를 캡처한 것으로, 이후 화면이 달라질 수 있습니다. Muse for Small Business의 [공식 안내](https://muse.ai/business)는 현재 미국·캐나다의 만 18세 이상 대상이라고 표시합니다.
 
 ## 수정 방법
 
