@@ -1,4 +1,4 @@
-"""Generate original, illustrative SVG and GIF assets for the four guide steps."""
+"""Generate original SVG assets for four steps and GIFs for steps 1–3."""
 from pathlib import Path
 from xml.sax.saxutils import escape
 import sys
@@ -58,6 +58,8 @@ def hexrgb(h):
     return tuple(int(h[j:j+2], 16) for j in (1, 3, 5))
 
 for idx, (number, title, sub, symbol, labels, bg, accent) in enumerate(DATA, 1):
+    if number == "04":
+        continue
     frames = []
     for active in range(len(labels)):
         im = Image.new("RGB", (620, 220), hexrgb(bg))
@@ -85,4 +87,4 @@ for idx, (number, title, sub, symbol, labels, bg, accent) in enumerate(DATA, 1):
         frames.extend([im] * 3)
     frames[0].save(OUT / f"step-{idx}.gif", save_all=True, append_images=frames[1:], duration=333, loop=0, optimize=True)
 
-print("Created four SVG illustrations, four GIF animations, and branding assets.")
+print("Created four SVG illustrations, three GIF animations, and branding assets.")
