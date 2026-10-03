@@ -15,3 +15,5 @@
 #invite{margin-bottom:80px}@media(max-width:650px){#invite{margin-bottom:55px}}
 
 .prep-invite-code{display:inline-block;margin-top:15px;padding:10px 15px;border-radius:8px;background:#e4f4de;color:#174e37;font-size:20px;font-weight:800;letter-spacing:.14em;user-select:all}
+
+.hero{min-height:420px;padding-block:45px 55px}.hero h1{font-size:clamp(21px,2.8vw,35px);margin:18px 0 15px}.hero-actions{margin-top:20px}.hero-note{margin-top:28px}.hero-art-shell{position:relative;width:50%;aspect-ratio:1;justify-self:center}.hero-art-shell .hero-art{position:absolute;inset:0;width:200%;height:200%;min-height:0;transform:scale(.5);transform-origin:top left}@media(max-width:650px){.hero{padding:38px 0 45px;gap:8px}.hero h1{font-size:21px}.hero-art-shell{width:50%}}
