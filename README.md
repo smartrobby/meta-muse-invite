@@ -32,7 +32,10 @@ STEP 02에 들어간 두 장의 공식 화면 사진은 2026년 10월 3일 [Meta
 - 스타일: `styles.css`
 - 초대 코드와 복사 기능: `script.js`의 `REFERRAL_CODE`
 - 단계별 그림과 GIF: `assets/`
+- STEP 04의 실제 Muse 화면 사진: `assets/redeem/` (원본 파일명에 담긴 15:07:00 → 15:07:18 순서)
 - 그림 재생성: `tools/make_assets.py` (Pillow 필요)
+
+STEP 04 사진은 작업 폴더에 제공된 Samsung Browser 스크린샷 네 장을 사용합니다. 사진은 **메뉴 → 설정 → 일반** 화면까지 보여 주며 실제 리딤 코드 입력창은 포함하지 않습니다. 안내 문구도 그 범위에 맞춰 작성했습니다.
 
 서비스 제공 지역, 초대 혜택, 결제 및 환불 조건은 변경될 수 있습니다. 게시 전에 [Meta 공식 발표](https://about.fb.com/ko/news/2026/09/introducing-muse-the-worlds-first-personal-ai-agent-built-for-everyone/)와 [Muse 가입 화면](https://muse.ai/join)의 현재 내용을 재확인하세요.
 
